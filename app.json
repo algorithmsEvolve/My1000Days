@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "My1000Days",
+    "slug": "Gizi1000HPK",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon-catin.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFD1DC"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.algorithm.gizi1000hpk",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.algorithm.gizi1000hpk",
+      "versionCode": 1
+    }
+  }
+}
